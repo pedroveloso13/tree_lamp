@@ -1,4 +1,4 @@
-
+#it needs grasshopper inputs to work
 import rhinoscriptsyntax as rs
 import Rhino.Geometry as rg
 import random
